@@ -1,0 +1,12 @@
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/bin/Debug/net7.0/Checkin.Common.deps.json
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/bin/Debug/net7.0/Checkin.Common.dll
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/bin/Debug/net7.0/Checkin.Common.pdb
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/obj/Debug/net7.0/Checkin.Common.csproj.AssemblyReference.cache
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/obj/Debug/net7.0/Checkin.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/obj/Debug/net7.0/Checkin.Common.AssemblyInfoInputs.cache
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/obj/Debug/net7.0/Checkin.Common.AssemblyInfo.cs
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/obj/Debug/net7.0/Checkin.Common.csproj.CoreCompileInputs.cache
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/obj/Debug/net7.0/Checkin.Common.dll
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/obj/Debug/net7.0/refint/Checkin.Common.dll
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/obj/Debug/net7.0/Checkin.Common.pdb
+/Users/tondim/Projects/kafka-reservation-api/Reservation/Checkin.Common/obj/Debug/net7.0/ref/Checkin.Common.dll

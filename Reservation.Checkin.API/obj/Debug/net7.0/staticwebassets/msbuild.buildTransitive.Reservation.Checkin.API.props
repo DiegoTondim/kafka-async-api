@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Reservation.Checkin.API.props" />
+</Project>

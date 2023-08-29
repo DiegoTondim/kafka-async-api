@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UH8IAf6yd/0nGbmEQFsTsDFV6DzZjJXSSQ3r2DhwkT0=",
+  "Source": "Reservation.Checkin.API",
+  "BasePath": "_content/Reservation.Checkin.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
